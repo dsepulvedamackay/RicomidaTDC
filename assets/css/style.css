@@ -1,0 +1,68 @@
+nav {
+    background-color: #373A3C;
+}
+
+body{
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+h1{
+    font-size: 40pt;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 23pt;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 20pt;
+    font-weight: 700;
+}
+
+p{
+    font-size: 20pt;
+    font-weight: 500;
+}
+
+p .text{
+    font-size: 16pt;
+    font-weight: 500;
+}
+
+#text{
+    font-size: 16pt;
+    font-weight: 500;
+}
+
+p .text:hover{
+    font-size: 16pt;
+    font-weight: 500;
+    background-color: #373A3C;
+}
+
+
+.text-logo{
+    font-family: 'Lobster', sans-serif;
+}
+
+.img-principal{
+    width: 400pt;
+}
+
+.inner-img{
+    width: 25%;
+    padding-right: 2%;
+}
+
+.newsletter{
+    background-color: #DC3545;
+    height: 450pt;
+}
+
+div.middle {
+    vertical-align: middle;
+}
+
